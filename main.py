@@ -1,3 +1,3 @@
-from sa import *
-
-sd.f(7)
+def say_hello():
+  print("Hello!")
+  
