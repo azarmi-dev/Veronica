@@ -1,8 +1,8 @@
-# Veronika
+# Veronica
 
 A small, elegant Python backend starter that combines Django and FastAPI for different needs: rapid development and lightweight APIs.
 
-Why Veronika?
+Why Veronica?
 - Simple and clear structure to get you started fast.
 - Use Django for full-featured web apps and FastAPI for fast, async APIs.
 
@@ -18,8 +18,8 @@ Requirements
 Getting started
 1. Clone the repository:
 
-   git clone https://github.com/azarmi-dev/Veronika.git
-   cd Veronika
+   git clone https://github.com/azarmi-dev/Veronica.git
+   cd Veronica
 
 2. Create a virtual environment and install dependencies:
 
